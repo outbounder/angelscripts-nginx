@@ -4,7 +4,8 @@
   "description": "Simple helper for updating remote nginx configurations",
   "main": "index.js",
   "dependencies": {
-    "angelabilities-exec": "^0.1.0"
+    "angelabilities-exec": "^0.1.0",
+    "string-template": "^1.0.0"
   },
   "devDependencies": {
     "organic-angel": "^0.3.0"
